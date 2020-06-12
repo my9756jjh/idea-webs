@@ -1,0 +1,58 @@
+h2 {
+  text-align: center;
+  background-image: linear-gradient(135deg, rgba(0, 180, 255, 0.1), rgba(0, 180, 255, 1));
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 30px;
+  margin: 0px;
+  color: #ffffff;
+}
+
+p {
+  text-align: center;
+}
+
+.heading {
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+.currentp {
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+.teamp {
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+.github {
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+.footer {
+  background-color: #bbbbbb;
+  font-family: 'Do Hyeon', sans-serif;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.project {
+  border-radius: 7.5px;
+  border: 2px solid gray;
+  width: 225px;
+  margin: auto;
+  height: 100px;
+  font-family: 'Do Hyeon', sans-serif;
+
+}
+
+.titles {
+  margin: 7.5px;
+  font-size: 20px;
+}
+
+.intro {
+  text-align: center;
+  font-family: 'Do Hyeon', sans-serif;
+  margin: 25px;
+  color: black;
+}
