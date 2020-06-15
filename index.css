@@ -56,3 +56,12 @@ p {
   margin: 25px;
   color: black;
 }
+
+.egg {
+  margin: 5px;
+  padding: 5px;
+  background-color: #000000;
+  color: white;
+  font-family: 'Do Hyeon', sans-serif;
+  text-align: center;
+}
